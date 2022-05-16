@@ -1,8 +1,7 @@
 # I used this script to research specific user's password info
-# when I started and found there was no password policy. Checked
-# last pw created, when it was last set, etc.
+# when I started. Checked last pw created, when it was last set, etc.
 # Original author unknown, used bits and pieces from various
-# StackOverflow threads
+# StackOverflow threads.
 
 $userid = Read-Host -Prompt "Enter userid: "
 
