@@ -1,1 +1,1 @@
-These are some small PS scripts that I use on a regular basis for information gathering, automation, or for alerts/logging. 
+These are some small scripts that I use from time to time in my role as a sysadmin
